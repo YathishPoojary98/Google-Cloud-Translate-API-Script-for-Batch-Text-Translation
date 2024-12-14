@@ -13,7 +13,9 @@ Usage:
 python translate_script.py input.txt output.txt target_language
 
 input.txt: File containing the text to be translated.
+
 output.txt: File to save the translated text.
+
 target_language: Language code for the target language (e.g., es for Spanish, fr for French).
 
 Prerequisites:
