@@ -21,7 +21,9 @@ target_language: Language code for the target language (e.g., es for Spanish, fr
 Prerequisites:
 
 Google Cloud account with the Translation API enabled.
+
 Service account key (JSON) for authentication.
+
 google-cloud-translate library installed.
 
 Example:
