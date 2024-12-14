@@ -3,7 +3,9 @@
 Key Features:
 
 Batch Translation: Translates multiple lines of text from a file.
+
 Language Support: Supports all languages available in the Google Cloud Translation API.
+
 Easy Configuration: Set your credentials, input file, output file, and target language via command-line arguments.
 
 Usage:
