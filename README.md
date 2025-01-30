@@ -30,8 +30,7 @@ Before using the script, ensure you have the following:
 📌 Usage
 Run the script using the following command:
 
-bash
-```
+```bash
 python translate_script.py input.txt output.txt target_language
 ```
 Arguments:
@@ -41,8 +40,7 @@ target_language – Language code for translation (e.g., es for Spanish, fr for 
 Example
 To translate data.txt into Spanish (es) and save it to translated_data.txt:
 
-bash
-```
+```bash
 python translate_script.py data.txt translated_data.txt es
 ```
 Output: The translated content will be written to translated_data.txt.
